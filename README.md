@@ -1,5 +1,7 @@
 # 🌸 ToDo Bloom
-![logo-transparent](https://github.com/user-attachments/assets/9516ceaa-a8fe-4dda-b887-4b68ea64c419)
+![logo](https://github.com/user-attachments/assets/7765ec41-9dcc-407f-8e02-8a551d9e2ead)
+
+
 
 **ToDo Bloom** is a simple and elegant task management app built with **React** and styled with **Bootstrap Icons**. It allows users to add, complete, and delete tasks with a smooth and responsive UI.
 
